@@ -1,6 +1,6 @@
 # Distributed-tensorflow-Learning-using-CNN-CIFAR-10-dataset-
 
-# This program runs distributed training on CIFAR-10 dataset to classify images using a Convolutional Neural Network. 
+## This program runs distributed training on CIFAR-10 dataset to classify images using a Convolutional Neural Network. 
 
 ## How does it work? 
 * You have to define parameter servers and workers. Also assign task to workers to unearth a distributed training system. 
